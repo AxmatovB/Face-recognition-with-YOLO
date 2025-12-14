@@ -1,0 +1,5 @@
+train: /home/axmatov/Desktop/AI/images/train
+val: /home/axmatov/Desktop/AI/images/val
+
+nc: 1
+names: ['person']
